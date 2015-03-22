@@ -4,15 +4,18 @@
            fetch="https://github.com/gitmogul/"
            review="review.membase.org" />
 
-  <project path="." 
+  <project path="."
            name="1st_party"
+           remote="github"
            revision="master" />
 
-  <project path="SecondParty" 
+  <project path="SecondParty"
            name="2nd_party"
+           remote="github"
            revision="master" />
 
-  <project path="ThirdParty" 
+  <project path="ThirdParty"
            name="3rd_party"
+           remote="github"
            revision="master" />
 </manifest>
