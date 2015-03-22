@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch="https://github.com/gitmogul/"
+           review="review.membase.org" />
+
+  <project path="." 
+           name="1st_party"
+           revision="master" />
+
+  <project path="SecondParty" 
+           name="2nd_party"
+           revision="master" />
+
+  <project path="ThirdParty" 
+           name="3rd_party"
+           revision="master" />
+</manifest>
