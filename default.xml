@@ -13,13 +13,13 @@
            name="2nd_party"
            remote="github"
            revision="master" />
-  <project path="SecondParty/Libs"
+  <project path="second_party/libs/gmock"
            name="gmock"
            remote="github"
            revision="master" />
 
   
-  <project path="ThirdParty"
+  <project path="third_party"
            name="3rd_party"
            remote="github"
            revision="master" />
