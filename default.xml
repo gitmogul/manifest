@@ -9,7 +9,7 @@
            remote="github"
            revision="master" />
 
-  <project path="SecondParty"
+  <project path="second_party"
            name="2nd_party"
            remote="github"
            revision="master" />
