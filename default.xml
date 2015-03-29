@@ -12,7 +12,7 @@
   <project path="second_party"
            name="2nd_party"
            remote="github"
-           revision="master" />
+           revision="dev" />
  
   <project path="third_party"
            name="3rd_party"
@@ -21,5 +21,5 @@
   <project path="third_party/libs/gmock"
            name="gmock"
            remote="github"
-           revision="master" />
+           revision="v1.7.0" />
 </manifest>
