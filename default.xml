@@ -3,24 +3,29 @@
   <remote  name="github"
            alias="origin"
            fetch="https://github.com/gitmogul/"
-           review="review.membase.org" />
+           review="review.membase.org" 
+  />
 
   <project path="."
            name="1st_party"
            remote="github"
-           revision="master" />
+           revision="master" 
+  />
 
   <project path="second_party"
            name="2nd_party"
            remote="github"
-           revision="dev" />
+           revision="dev" 
+  />
  
   <project path="third_party"
            name="3rd_party"
            remote="github"
-           revision="master" />
+           revision="master" 
+  />
   <project path="third_party/libs/gmock"
            name="gmock"
            remote="github"
-           revision="v1.7.0" />
+           revision="v1.7.0" 
+  />
 </manifest>
