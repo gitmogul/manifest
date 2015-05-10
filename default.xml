@@ -26,6 +26,6 @@
   <project path="third_party/libs/gmock"
            name="gmock"
            remote="github"
-           revision="v1.7.0" 
+           revision="master" 
   />
 </manifest>
