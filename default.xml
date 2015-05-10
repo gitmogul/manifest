@@ -9,7 +9,7 @@
   <project path="."
            name="1st_party"
            remote="github"
-           revision="master" 
+           revision="dev" 
   />
 
   <project path="second_party"
@@ -21,7 +21,7 @@
   <project path="third_party"
            name="3rd_party"
            remote="github"
-           revision="master" 
+           revision="dev" 
   />
   <project path="third_party/libs/gmock"
            name="gmock"
